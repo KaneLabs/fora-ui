@@ -5,7 +5,7 @@
 // export * from './Banner';
 // export * from './BuffetDrawer';
 // export * from './BuffPassCard';
-export * from './src';
+export * from './Button';
 // export * from './Card';
 // export * from './Container';
 // export * from './ContainerItem';
