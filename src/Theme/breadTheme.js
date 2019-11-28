@@ -1,4 +1,4 @@
-import { Colors } from 'material-bread';
+// import { Colors } from 'material-bread';
 
 export const breadTheme = {
   primary: {
@@ -9,9 +9,9 @@ export const breadTheme = {
     main: '#565A5C',
     dark: '#565A5C',
   },
-  error: {
-    main: Colors.red['300'],
-  },
+  // error: {
+  //   main: Colors.red['300'],
+  // },
   textColor: {
     primary: 'rgba(255, 255, 255, 0.87)',
     secondary: 'rgba(255, 255, 255, 0.54)',
